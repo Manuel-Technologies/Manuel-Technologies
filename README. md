@@ -1,0 +1,31 @@
+# Hey, I'm [YourName] 🇳🇬👋
+
+**Full-stack .NET developer who never touches a laptop** 💻❌  
+Turning my Android phone into a complete dev machine since 2025 📱⚙️
+
+### What I build
+- Production-grade backends with **.NET 8 Minimal APIs**  
+- Cross-platform apps with **MAUI** (Android + Windows)  
+- IoT & embedded projects (ESP32, sensors, firmware in C#)  
+- Smart contracts & tooling on **Sui Blockchain** using **Move**  
+- Real student products used by hundreds daily
+
+### Current adventures
+- **CampusStay** – The easiest way for Nigerian students to find verified hostels 🏠 (launching soon)  
+- Secret Move lang projects on Sui  
+- Daily C# experiments dropped here on GitHub
+
+### Tech stack I live in
+`.NET 8` `C# 12` `MAUI` `EF Core` `SQLite` `PostgreSQL` `Minimal APIs`  
+`SignalR` `gRPC` `Bluetooth LE` `MQTT` `Sui/Move` `Rust (a little)` `Termux` `a-Shell`
+
+### Tools of the trade
+- Samsung Galaxy + Termux + a-Shell  
+- Neovim running on my phone  
+- Git pushed from mobile, CI/CD on GitHub Actions  
+- Zero excuses, maximum shipping
+
+Learning in public • Shipping daily • MobileDevGang
+
+Feel free to steal code, ask questions, or just say hi!  
+Always happy to help the next dev coding from a hostel room at 2 a.m. ✨
