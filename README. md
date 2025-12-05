@@ -1,31 +1,31 @@
-#  Hello, I'm **Manuel** 🇳🇬👋
+# Hello, I'm **Manuel** 🇳🇬 👋
 
-**Full-stack .NET developer who ships production apps straight from an Android phone** 💻❌📱⚙️  
+**Full-stack .NET developer who ships production apps straight from an Android phone** 💻 ❌ 📱 ⚙️  
 I turned mobile development into a lifestyle since 2025.
 
 ### What I build
-- Production backends using **.NET 8 Minimal APIs**  
-- Cross-platform apps with **MAUI** (Android and Windows)  
-- IoT and embedded systems with ESP32, sensors and C# firmware  
-- Smart contracts and developer tools on the **Sui Blockchain** using **Move**  
+- Production backends using **.NET 8 Minimal APIs**
+- Cross-platform apps with **MAUI** (Android and Windows)
+- IoT and embedded systems with ESP32, sensors and C# firmware
+- Smart contracts and developer tools on the **Sui Blockchain** using **Move**
 - Real student-focused products used daily in local campuses
 
 ### What I'm working on now
-- **CampusStay** – A simple and verified way for Nigerian students to find hostels 🏠  
-- Several Move language projects on Sui  
+- **CampusStay** – A simple and verified way for Nigerian students to find hostels 🏠
+- Several Move language projects on Sui
 - Constant C# experiments and open source drops
 
 ### My tech stack
-`.NET 8` `C# 12` `MAUI` `EF Core`  
-`SQLite` `PostgreSQL` `Minimal APIs`  
-`SignalR` `gRPC` `Bluetooth LE` `MQTT`  
-`Sui/Move` `Rust (light)`  
-`Termux` `a-Shell`
+` .NET 8 ` ` C# 12 ` ` MAUI ` ` EF Core `  
+` SQLite ` ` PostgreSQL ` ` Minimal APIs `  
+` SignalR ` ` gRPC ` ` Bluetooth LE ` ` MQTT `  
+` Sui/Move ` ` Rust (light) `  
+` Termux ` ` a-Shell `
 
 ### Tools I use daily
-- Android phone (Tecno), Termux and a-Shell  
-- Neovim configured for full development  
-- Git directly from mobile with CI/CD on GitHub Actions  
+- Android phone (Tecno), Termux and a-Shell
+- Neovim configured for full development
+- Git directly from mobile with CI/CD on GitHub Actions
 - No excuses, just consistent shipping
 
 Learning in public • Shipping daily • MobileDevGang
