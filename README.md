@@ -1,6 +1,6 @@
 # Hello, I'm Manuel 🇳🇬 👋
 
-**Full-stack .NET developer who ships production apps straight from an Android phone** 💻❌📱⚙️
+**Full-stack .NET developer who ships production apps
 
 I turned mobile development into a lifestyle since 2025.
 
@@ -46,6 +46,39 @@ public class Chekwubs
     }
 }
 ```
+
+
+
+# Professional Software Engineer Profile
+
+## About Me
+I am a passionate Software Engineer with a strong foundation in software development principles, problem-solving skills, and a commitment to delivering high-quality solutions. My expertise lies in various programming languages and technology stacks, enabling me to work effectively in diverse environments.
+
+## Technical Skills
+- **Languages**: C#, .NET, Go Lang, SQL
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Frameworks**: ASP.NET Core, Entity Framework, Spring Boot
+- **Tools & Technologies**: Git, Docker, Kubernetes, CI/CD, RESTful APIs, Microservices
+
+## Badges
+![C#](https://img.shields.io/badge/-C%23-007ACC?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D7F?logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005f99?logo=mysql&logoColor=white)
+![Go Lang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)
+
+## Professional Competencies
+- Strong understanding of software development lifecycle (SDLC)
+- Experience with Agile/Scrum methodologies
+- Ability to learn new technologies quickly and adapt to changing project requirements
+- Excellent communication and teamwork skills, with experience working in cross-functional teams
+
+## Daily Tools
+- Visual Studio, JetBrains Rider
+- Postman, Swagger
+- JIRA, Trello
+- GitHub, GitLab
+
+For collaboration or inquiries, please feel free to connect with me!
 
 **Learning in public • Shipping daily • MobileDevGang**
 
