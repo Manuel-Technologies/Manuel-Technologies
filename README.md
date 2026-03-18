@@ -25,6 +25,27 @@ I turned mobile development into a lifestyle since 2025.
 - Git directly from mobile with CI/CD on GitHub Actions
 - No excuses, just consistent shipping
 
+## Developer Profile
+
+```csharp
+public class Chekwubs
+{
+    /// <summary>
+    /// Professional information about Chekwubs
+    /// </summary>
+    public string FirstName { get; set; } = "Chekwubs";
+    public string Occupation { get; set; } = "Software Engineer";
+    public string Nationality { get; set; } = "Nigeria";
+    public string SpecialtyStack { get; set; } = ".NET, MAUI, C#";
+    public string CurrentFocus { get; set; } = "Mobile Development & Blockchain";
+    public bool ShipsFromMobile { get; set; } = true;
+
+    public override string ToString()
+    {
+        return $"Name: {FirstName} | Occupation: {Occupation} | Nationality: {Nationality}";
+    }
+}
+```
 
 **Learning in public • Shipping daily • MobileDevGang**
 
